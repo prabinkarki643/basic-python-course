@@ -244,17 +244,6 @@ Class 15 closes with a clear map of these topics and recommended next steps, so 
 
 ---
 
-## Budget
-
-### Fee Structure
-
-| Item | Rate | Classes | Amount |
-|------|-----:|--------:|-------:|
-| Instructor fee | Rs. 1,500 / class | 15 | Rs. 22,500 |
-| **Total course cost** | | **15** | **Rs. 22,500** |
-
-The fee is charged **per class delivered**, not per student. Batch size does not affect the cost, and the total is unchanged whether the college runs one or two classes on any given day.
-
 ### What Is Included
 
 - All 15 classes taught in person
