@@ -8,6 +8,10 @@ A complete **15-class** beginner course taking Class 12 Science students from ze
 Bachelor in Computer Science and Engineering
 [prabin-karki.com.np](https://prabin-karki.com.np) · prabinkarki643@gmail.com
 
+**Course URL:**
+https://github.com/prabinkarki643/basic-python-course
+
+
 ## Who This Course Is For
 
 - **Class 12 Science students** (NEB or equivalent)
